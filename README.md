@@ -1,8 +1,7 @@
 # 【IN PROGRESS】ZK Identity Integration Examples
 
 # Overview
-- This repo is the experimental repo to test the integrations with the various ZK identity related libraries:
-  i.e).   
+- This repo is the experimental repo to test the integrations with the various ZK identity related libraries such as:   
   - `Semaphore v4` circuit in Noir: https://github.com/hashcloak/semaphore-noir
   - `ZK Passport`: https://github.com/zkpassport/circuits
   - `ZK Passport` (powered by `Rarimo`): https://github.com/rarimo/passport-zk-circuits-noir 
