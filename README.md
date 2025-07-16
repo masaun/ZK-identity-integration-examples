@@ -1,4 +1,4 @@
-# 【IN PROGRESS】ZK Identity Integration Examples
+# 【IN PROGRESS】ZK Identity Library Integration Examples
 
 # Overview
 - This repo is the experimental repo to test the integrations with the various ZK identity related libraries such as:   
