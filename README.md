@@ -1,14 +1,18 @@
-# 【IN PROGRESS】ZK Identity Integration Examples
+# 【IN PROGRESS】ZK Identity Library Integration Examples
 
 # Overview
-- This repo is the ZK identity integration examples using like the `Semaphore v4` circuit in Noir:  
-  - https://github.com/hashcloak/semaphore-noir
+- This repo is the experimental repo to test the integrations with the various ZK identity related libraries such as:   
+  - `Semaphore v4` circuit in Noir: https://github.com/hashcloak/semaphore-noir
+  - `ZK Passport`: https://github.com/zkpassport/circuits
+  - `ZK Passport` (powered by `Rarimo`): https://github.com/rarimo/passport-zk-circuits-noir 
 
 
 - In this repo, I'm going to experiment to integrate various ZK identity libraries in Noir.
 
 
 <br>
+
+<hr>
 
 # Noir with Vite and Hardhat
 
