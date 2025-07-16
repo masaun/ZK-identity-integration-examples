@@ -1,3 +1,15 @@
+# 【IN PROGRESS】ZK Identity Integration Examples
+
+# Overview
+- This repo is the ZK identity integration examples using like the `Semaphore v4` circuit in Noir:  
+  - https://github.com/hashcloak/semaphore-noir
+
+
+- In this repo, I'm going to experiment to integrate various ZK identity libraries in Noir.
+
+
+<br>
+
 # Noir with Vite and Hardhat
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e4bd1ebc-6be1-4ed2-8be8-18f70382ae22/deploy-status)](https://app.netlify.com/sites/noir-vite-hardhat/deploys)
