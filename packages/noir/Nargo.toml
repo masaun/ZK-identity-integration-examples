@@ -3,3 +3,5 @@ name = "noirstarter"
 type = "bin"
 
 [dependencies]
+# Semaphore-noir
+semaphore_batch_2_leaves = { tag = "main", git = "https://github.com/hashcloak/semaphore-noir", directory = "./packages/noir-proof-batch/circuits/batch_2_leaves" }
