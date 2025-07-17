@@ -1,6 +1,7 @@
 [package]
 name = "circuit"
-type = "bin"
+type = "lib"
+#type = "bin"
 authors = [""]
 
 [dependencies]
