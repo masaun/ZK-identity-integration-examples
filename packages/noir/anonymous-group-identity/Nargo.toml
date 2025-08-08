@@ -1,5 +1,5 @@
 [package]
-name = "noirstarter"
+name = "anonymous_group_identity"
 type = "bin"
 
 [dependencies]
