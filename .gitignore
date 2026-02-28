@@ -59,3 +59,9 @@ contracts
 dist
 deployment.json
 bun.lockb
+
+# Node modules
+node_modules/
+bun.lockb
+package-lock.json
+yarn.lock
